@@ -1,3 +1,5 @@
+# Multilingual Toxic Comment Detection and Classification
+
 Social media and online platforms have provided individuals
 with the means to put forward their thoughts and freely express
 opinions on various matters. Lately, there have been several
